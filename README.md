@@ -1,4 +1,4 @@
-# HR-Dashboard-PowerBI]
+# HR-Dashboard-PowerBI
 
 
 HR Dashboard in Power BI
